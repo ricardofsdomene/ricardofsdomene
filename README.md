@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ricardofsdomene
+- 👀 I’m interested in mobile & web development (focused on SaaSs)
+- 🌱 I’m currently learning nextjs, clean architecture and software architecture
+- 💞️ I’m currently developing @financial.company
+- 📫 Mail me instead ricardofsdomene@icloud.com
